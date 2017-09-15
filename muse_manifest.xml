@@ -1,0 +1,207 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Job_CRC.html" resolutions="1x" timestamp="1505401472418">
+  <folder name="css">
+    <file name="site_global.css" crc="4262084952"/>
+    <file name="job-ad.css" crc="3908484259" ref="job-ad"/>
+    <file name="index.css" crc="4128437019" ref="index"/>
+    <file name="send-cv.css" crc="453861978" ref="send-cv"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:job-ad:send-cv"/>
+    <file name="museutils.js" crc="17924269" ref="index:job-ad:send-cv"/>
+    <file name="whatinput.js" crc="86476730" ref="index:job-ad:send-cv"/>
+    <file name="museconfig.js" crc="278381782" ref="index:job-ad:send-cv"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:job-ad:send-cv"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:job-ad:send-cv"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:job-ad:send-cv"/>
+    <file name="require.js" crc="3861931657" ref="index:job-ad:send-cv"/>
+  </folder>
+  <folder name="images">
+    <file name="orange-fon-u1149-fr.png" crc="4181258594" ref="index"/>
+    <file name="u815-4.png" crc="3898189304" ref="index"/>
+    <file name="u821-6.png" crc="374204077" ref="index"/>
+    <file name="main-photo.jpg" crc="4286004790" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_star.svg" crc="4291287752" ref="index"/>
+    <file name="icon_star_poster_u1993.png" crc="297705780" ref="index"/>
+    <file name="icon_people.svg" crc="283073285" ref="index"/>
+    <file name="icon_people_poster_u1934.png" crc="4034874784" ref="index"/>
+    <file name="u833-4.png" crc="527863033" ref="index"/>
+    <file name="u836-4.png" crc="3800967392" ref="index"/>
+    <file name="icon_pc.svg" crc="3910058843" ref="index"/>
+    <file name="icon_pc_poster_u2001.png" crc="4181177601" ref="index"/>
+    <file name="icon_level up.svg" crc="131650238" ref="index"/>
+    <file name="icon_level up_poster_u2025.png" crc="3948159548" ref="index"/>
+    <file name="u839-4.png" crc="463486051" ref="index"/>
+    <file name="u842-4.png" crc="339002572" ref="index"/>
+    <file name="orange-fon---copy-u1160-fr.png" crc="384198778" ref="index"/>
+    <file name="u892-4.png" crc="351823276" ref="index"/>
+    <file name="u920-7.png" crc="214149294" ref="index"/>
+    <file name="u926-27.png" crc="381611684" ref="index"/>
+    <file name="u916-5.png" crc="452906789" ref="index"/>
+    <file name="u913-27.png" crc="3901099289" ref="index"/>
+    <file name="u938-4.png" crc="358981631" ref="index"/>
+    <file name="u939-16.png" crc="3838292199" ref="index"/>
+    <file name="u940-16.png" crc="454339020" ref="index"/>
+    <file name="u935-5.png" crc="418122904" ref="index"/>
+    <file name="799.jpg" crc="378810232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo iltc original.svg" crc="3849074819" ref="index:job-ad:send-cv"/>
+    <file name="logo iltc original_poster_u163.png" crc="17374554" ref="index:job-ad:send-cv"/>
+    <file name="u170-4.png" crc="4170615999" ref="index"/>
+    <file name="u174-4.png" crc="340820729" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:job-ad:send-cv"/>
+    <file name="u181_states.png" crc="8642385" ref="index"/>
+    <file name="u181_states-r.png" crc="234311403" ref="index"/>
+    <file name="u181_states-m.png" crc="4204095833" ref="index"/>
+    <file name="u278_states.png" crc="211244206" ref="index"/>
+    <file name="u278_states-r.png" crc="325741270" ref="index"/>
+    <file name="u278_states-a.png" crc="114888473" ref="index"/>
+    <file name="u260_states.png" crc="421456538" ref="index"/>
+    <file name="u260_states-r.png" crc="493562433" ref="index"/>
+    <file name="u260_states-a.png" crc="4047578349" ref="index"/>
+    <file name="u2314_states.png" crc="285986091" ref="index"/>
+    <file name="u2314_states-r.png" crc="493565186" ref="index"/>
+    <file name="u266_states.png" crc="4082127378" ref="index"/>
+    <file name="u266_states-r.png" crc="4236460236" ref="index"/>
+    <file name="u266_states-a.png" crc="435118147" ref="index"/>
+    <file name="u263_states.png" crc="3952906505" ref="index"/>
+    <file name="u263_states-r.png" crc="125120842" ref="index"/>
+    <file name="o6zk030.jpg" crc="4294148025" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u976-4.png" crc="4138114552" ref="index"/>
+    <file name="u977-4.png" crc="67406004" ref="index"/>
+    <file name="u975_states.png" crc="421498813" ref="index"/>
+    <file name="u975_states-r.png" crc="3963011605" ref="index"/>
+    <file name="u975_states-m.png" crc="164941554" ref="index"/>
+    <file name="_z9a2583red copy.png" crc="3989088441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1035-4.png" crc="268298491" ref="index"/>
+    <file name="phone_web.png" crc="133662391" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone_web-u1038-r-fr.png" crc="3829221511" ref="index"/>
+    <file name="email_web icon white.png" crc="4196026896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email_web icon white-u1039-r-fr.png" crc="296763963" ref="index"/>
+    <file name="site_web icon white.png" crc="242368346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="site_web icon white-u1040-r-fr.png" crc="3830382722" ref="index"/>
+    <file name="location_web icon white.png" crc="3937593915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_web icon white-u1041-r-fr.png" crc="3857153910" ref="index"/>
+    <file name="u2212-4.png" crc="3820276497" ref="index"/>
+    <file name="u2063-4.png" crc="86232714" ref="index"/>
+    <file name="facebook_web icon white.png" crc="3807567045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_web icon white-u1042-r-fr.png" crc="515926791" ref="index"/>
+    <file name="youtube_web icon white.png" crc="256940026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube_web icon white-u1043-r-fr.png" crc="160881577" ref="index"/>
+    <file name="instagram_web icon white.png" crc="3825583751" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_web icon white-u1044-r-fr.png" crc="4266009354" ref="index"/>
+    <file name="img_6153.jpg" crc="4148431451" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2033.png" crc="254329444" ref="index"/>
+    <file name="u2033-r.png" crc="3811899456" ref="index"/>
+    <file name="u2042.png" crc="3938151484" ref="index"/>
+    <file name="u2042-r.png" crc="3870047686" ref="index"/>
+    <file name="u2048.png" crc="243009548" ref="index"/>
+    <file name="u2048-r.png" crc="127835232" ref="index"/>
+    <file name="u2051_states.png" crc="3850363165" ref="index"/>
+    <file name="u2051_states-r.png" crc="527541665" ref="index"/>
+    <file name="u2051_states-m.png" crc="283798153" ref="index"/>
+    <file name="u2054.png" crc="4073701552" ref="index"/>
+    <file name="u2054-r.png" crc="3776187286" ref="index"/>
+    <file name="u2057.png" crc="3969486609" ref="index"/>
+    <file name="u2057-r.png" crc="4280108977" ref="index"/>
+    <file name="oe9uj40.jpg" crc="3892572600" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1016-10.png" crc="320032410" ref="index"/>
+    <file name="crash cube.svg" crc="408445780" ref="index"/>
+    <file name="crash cube_poster_u1902.png" crc="4231819411" ref="index"/>
+    <file name="09_you-are-welcome_september_.jpg" crc="3978212889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22_bdiltc_day-3-13.jpg" crc="103015473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iltc_students.jpg" crc="4268478093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0119.jpg" crc="156724647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0282.jpg" crc="27874040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0699.jpg" crc="3949309344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2032.jpg" crc="3931409370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main-photo720x480.jpg" crc="240473572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdseminar_teaching-multilevel-classes-11.jpg" crc="122405848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="4038237028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2288_states.png" crc="178406230" ref="job-ad"/>
+    <file name="u2288_states-r.png" crc="33513474" ref="job-ad"/>
+    <file name="u2288_states-m.png" crc="4088714087" ref="job-ad"/>
+    <file name="6191.jpg" crc="88419735" ref="job-ad">
+      <caption webpage="job-ad" alt=""/>
+    </file>
+    <file name="px_by_gre3g.jpg" crc="4134230016" ref="job-ad">
+      <caption webpage="job-ad" alt=""/>
+    </file>
+    <file name="u2276-4.png" crc="3806925575" ref="job-ad"/>
+    <file name="u2228-4.png" crc="3820276497" ref="job-ad"/>
+    <file name="u1388_states.png" crc="211244206" ref="send-cv"/>
+    <file name="u1388_states-r.png" crc="325741270" ref="send-cv"/>
+    <file name="u1422_states.png" crc="4159087724" ref="send-cv"/>
+    <file name="u1422_states-r.png" crc="130320664" ref="send-cv"/>
+    <file name="u1389_states.png" crc="421456538" ref="send-cv"/>
+    <file name="u1389_states-r.png" crc="493562433" ref="send-cv"/>
+    <file name="u1390_states.png" crc="4082127378" ref="send-cv"/>
+    <file name="u1390_states-r.png" crc="4236460236" ref="send-cv"/>
+    <file name="u1391_states.png" crc="3952906505" ref="send-cv"/>
+    <file name="u1391_states-r.png" crc="125120842" ref="send-cv"/>
+    <file name="u1521-4.png" crc="4078956833" ref="send-cv"/>
+    <file name="u1522-4.png" crc="67406004" ref="send-cv"/>
+    <file name="crash cube_white.svg" crc="161562964" ref="send-cv"/>
+    <file name="crash cube_white_poster_u1910.png" crc="4256425206" ref="send-cv"/>
+    <file name="u1512-6.png" crc="4158113664" ref="send-cv"/>
+    <file name="u1609-4.png" crc="168402636" ref="send-cv"/>
+    <file name="u1575-5.png" crc="4054158338" ref="send-cv"/>
+    <file name="u1613-5.png" crc="444294416" ref="send-cv"/>
+    <file name="u1618_states.png" crc="426516374" ref="send-cv"/>
+    <file name="u1618_states-r.png" crc="3911161220" ref="send-cv"/>
+    <file name="u2311-4.png" crc="18713333" ref="send-cv"/>
+  </folder>
+  <file name="index.html" crc="4115480216" seo="true" mt="1505401440177" redirect="true"/>
+  <file name="job-ad.html" crc="4028145488" seo="true" mt="1505392717975" redirect="true"/>
+  <file name="send-cv.html" crc="177476312" seo="true" mt="1505393314427" redirect="true"/>
+</manifest>
